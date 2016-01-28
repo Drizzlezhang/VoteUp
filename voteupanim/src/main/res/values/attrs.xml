@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="VoteUpView">
+		<attr name="default_text"
+			format="string"/>
+		<attr name="done_text"
+			format="string"/>
+		<attr name="default_text_color"
+			format="color"/>
+		<attr name="done_text_color"
+			format="color"/>
+		<attr name="text_size"
+			format="dimension"/>
+		<attr name="default_color"
+			format="color"/>
+		<attr name="ripple_color"
+			format="color"/>
+		<attr name="ripple_radius"
+			format="dimension"/>
+	</declare-styleable>
+</resources>
